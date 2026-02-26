@@ -5,3 +5,6 @@ Esta configuración impide que se puedan hacer commits directamente en la rama p
 Dejo marcadas las opciones por defecto "Block force pushes" y "Restrict deletions" y marco "Restrict updates" para impedir actualizaciones de la rama principal.
 
 
+Justificacion .gitignore
+
+En el archivo .gitignore he agregado los archivos de "*.log" y el directorio "__pycache__/" de cache de Python.
