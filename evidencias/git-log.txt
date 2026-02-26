@@ -1,0 +1,19 @@
+*   b0f8ce2 Merge pull request #2 from SorianoTech/feature/resta
+|\  
+| *   77f3c94 Resuelvo conflicto sobre rama featura/resta añadiendo ambos cambios
+| |\  
+| |/  
+|/|   
+* |   4fe9319 Merge pull request #3 from SorianoTech/feature/suma
+|\ \  
+| * | 8ac610f Añado funcion suma
+|/ /  
+| * c94c878 Añado funcion resta
+|/  
+*   aa9cf45 Merge pull request #1 from SorianoTech/feature/gitignore
+|\  
+| * 1a22b48 Evidencias gitignore
+| * 151d6b4 Ejercicio 3 - .gitignore
+| * 2482a8b Añado evidencias
+|/  
+* 6251076 Primer commit
