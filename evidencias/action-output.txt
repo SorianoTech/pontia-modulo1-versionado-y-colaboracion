@@ -1,0 +1,13 @@
+0
+Current runner version: '2.331.0'
+Runner Image Provisioner
+Operating System
+Runner Image
+GITHUB_TOKEN Permissions
+Secret source: Actions
+Prepare workflow directory
+Prepare all required actions
+Complete job name: saludo
+Run echo "Hola, Sergio Soriano!"
+Hola, Sergio Soriano!
+Cleaning up orphan processes
