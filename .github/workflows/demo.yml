@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       nombre:
-        description: 'Sergio Soriano'
+        description: 'Tu nombre'
         required: true
         default: 'Alumno'
 jobs:
