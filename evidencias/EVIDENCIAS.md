@@ -1,5 +1,5 @@
-Estudiante: Sergio Soriano San Jose
-Repositorio: [https://github.com/SorianoTech/pontia-modulo1-versionado-y-colaboracion](https://github.com/SorianoTech/pontia-modulo1-versionado-y-colaboracion)
+Estudiante: Sergio Soriano San Jose  
+Repositorio: [https://github.com/SorianoTech/pontia-modulo1-versionado-y-colaboracion](https://github.com/SorianoTech/pontia-modulo1-versionado-y-colaboracion)  
 
 ## 1. Configuración y Protección de la Rama Main
 
@@ -48,4 +48,5 @@ El desarrollo se ha basado en el modelo GitHub Flow:
 1. Creación de ramas descriptivas para cada tarea.
 2. Commits frecuentes con mensajes claros.
 3. Apertura de Pull Requests para revisión e integración.
+
 4. Sincronización constante del repositorio local con el remoto.
