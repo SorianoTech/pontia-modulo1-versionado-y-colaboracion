@@ -33,7 +33,7 @@ Durante la integración de las funcionalidades de suma y resta, se produjo un co
 
 - **Evidencia visual:** El historial completo y la ramificación se detallan en evidencias/git-log.txt
 
-4. **Automatización con GitHub Actions** 
+## 4. **Automatización con GitHub Actions** 
 
 Se ha implementado un flujo de trabajo (workflow) en .github/workflows/demo.yml que permite la ejecución manual.
 
@@ -50,3 +50,4 @@ El desarrollo se ha basado en el modelo GitHub Flow:
 3. Apertura de Pull Requests para revisión e integración.
 
 4. Sincronización constante del repositorio local con el remoto.
+
